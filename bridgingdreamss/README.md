@@ -1,4 +1,4 @@
-# bridgingdreamss
+# my-app
 
 ## Project setup
 ```
